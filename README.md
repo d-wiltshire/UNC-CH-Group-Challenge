@@ -1,5 +1,9 @@
 # NYC-Student-Success-Predictions
 
+## This is an archived fork of a group challenge created as part of the UNC-CH Data Analytics Certificate Program. The repository has not been updated following the challenge. 
+
+
+
 ## Overview
 
 ### Selected Topic
